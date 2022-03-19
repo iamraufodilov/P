@@ -1,0 +1,7 @@
+Python
+
+1)Syntax
+2)Numpy
+3)Pandas
+4)Matplotlib
+5)Skicit Learn
